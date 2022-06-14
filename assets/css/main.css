@@ -265,11 +265,11 @@ a {
   -ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
   transition: border-bottom-color 0.2s ease, color 0.2s ease;
   border-bottom: dotted 1px rgba(255, 255, 255, 0.25);
-  color: #001d53;
+  color: #000000;
   text-decoration: none; }
   a:hover {
     border-bottom-color: transparent;
-    color: #001d53!important;
+    color: #000000!important;
     text-decoration: none; }
 
 strong, b {
